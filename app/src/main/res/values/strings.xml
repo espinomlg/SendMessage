@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage_Activity</string>
+    <string name="txv">Escribe aquí el mensaje:</string>
+    <string name="btn">Enviar</string>
+</resources>
